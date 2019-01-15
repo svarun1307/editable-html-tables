@@ -1,0 +1,44 @@
+body
+{
+   background:#282828;
+}
+
+#t1
+{
+	height:auto;
+	font:20px tahoma bold;
+	font-weight:bold;
+	letter-spacing:2px;
+	word-spacing:8px;
+}
+
+.timer
+{
+	font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+	font-size: 64px;
+	font-style: normal;
+	font-variant: normal;
+	
+}
+
+.mod
+{
+  font:22px tahoma bold;
+  letter-spacing:3px;
+}
+
+.contd
+{
+	border:1px solid grey;border-radius:15px;box-shadow:0 0 20px #FF9900;box-shadow:0 0 30px #FF9900;box-shadow:0 0 50px #FF9900;box-shadow:0 0 70px #FF9900;box-shadow:0 0 90px #FF9900;box-shadow:0 0 120px #FF9900;box-shadow:0 0 150px #FF9900;box-shadow:0 0 200px #FF9900;
+	background: #fefcea; /* Old browsers */
+    background: -moz-linear-gradient(top,  #fefcea 0%, #f1da36 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fefcea), color-stop(100%,#f1da36)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #fefcea 0%,#f1da36 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #fefcea 0%,#f1da36 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #fefcea 0%,#f1da36 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #fefcea 0%,#f1da36 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefcea', endColorstr='#f1da36',GradientType=0 ); /* IE6-9 */
+
+        
+
+}
